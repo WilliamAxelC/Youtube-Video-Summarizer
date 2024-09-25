@@ -1,0 +1,34 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+environments
+
+lightning-logs
+cnn-dailymail
+
+*.zip
+
+# Ignore all text files
+*.ipynb
+*.pdf
+
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache
+
+key.txt
+
+Anggota-Kelompok.txt
+
+Penjelasan Final Project NLP.pdf
+
+Video-Demo.mkv
+
+YoutubeSummarizer.zip
+
+exe/
+
+environments/
